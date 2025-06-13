@@ -1,0 +1,10 @@
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/target/debug/deps/liboverload-52044a3b1fd51d5e.rmeta: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/unary.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/assignment.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/binary.rs
+
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/target/debug/deps/liboverload-52044a3b1fd51d5e.rlib: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/unary.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/assignment.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/binary.rs
+
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/target/debug/deps/overload-52044a3b1fd51d5e.d: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/unary.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/assignment.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/binary.rs
+
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/lib.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/unary.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/assignment.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/overload-0.1.1/src/binary.rs:

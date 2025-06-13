@@ -1,0 +1,8 @@
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/target/debug/deps/libgloo_worker_macros-aa4729739bada243.dylib: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/oneshot.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/reactor.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/worker_fn.rs
+
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/target/debug/deps/gloo_worker_macros-aa4729739bada243.d: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/oneshot.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/reactor.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/worker_fn.rs
+
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/lib.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/oneshot.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/reactor.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gloo-worker-macros-0.1.0/src/worker_fn.rs:
