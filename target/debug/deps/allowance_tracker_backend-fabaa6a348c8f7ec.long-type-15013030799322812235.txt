@@ -1,0 +1,2 @@
+fn({type error}, axum::Json<shared::KeyValue>) -> impl std::future::Future<Output = impl IntoResponse> {put_value}
+fn({type error}, axum::Json<shared::KeyValue>) -> impl std::future::Future<Output = impl IntoResponse> {put_value}: Handler<_, _>
