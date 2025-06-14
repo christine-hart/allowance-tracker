@@ -1,3 +1,0 @@
-functional::hooks::use_state::UseStateHandle<Option<shared::Child>>
-yew::UseStateHandle<Option<shared::Child>>
-(&{closure@frontend/src/main.rs:51:13: 51:60},)

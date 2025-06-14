@@ -1,2 +1,0 @@
-fn({type error}, axum::extract::Path<std::string::String>) -> impl std::future::Future<Output = impl IntoResponse> {get_value}
-fn({type error}, axum::extract::Path<std::string::String>) -> impl std::future::Future<Output = impl IntoResponse> {get_value}: Handler<_, _>
