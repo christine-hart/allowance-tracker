@@ -1,0 +1,10 @@
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/libblock2-911e2bc601fb7067.rmeta: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/block.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/concrete_block.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/debug.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/global.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/rc_block.rs
+
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/block2-911e2bc601fb7067.d: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/block.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/concrete_block.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/debug.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/global.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/rc_block.rs
+
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/lib.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/block.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/concrete_block.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/debug.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/global.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/block2-0.3.0/src/rc_block.rs:

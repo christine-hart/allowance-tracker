@@ -1,0 +1,11 @@
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/libmime_guess2-8a8718263ed2b3d0.rmeta: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mime_guess2-2.3.1/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mime_guess2-2.3.1/src/impl_bin_search.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mime_guess2-2.3.1/src/mime_types.rs /Users/kerryh/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/build/mime_guess2-a01cadeb2996edb7/out/mime_types_generated.rs
+
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/mime_guess2-8a8718263ed2b3d0.d: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mime_guess2-2.3.1/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mime_guess2-2.3.1/src/impl_bin_search.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mime_guess2-2.3.1/src/mime_types.rs /Users/kerryh/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/build/mime_guess2-a01cadeb2996edb7/out/mime_types_generated.rs
+
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mime_guess2-2.3.1/src/lib.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mime_guess2-2.3.1/src/impl_bin_search.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mime_guess2-2.3.1/src/mime_types.rs:
+/Users/kerryh/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/build/mime_guess2-a01cadeb2996edb7/out/mime_types_generated.rs:
+
+# env-dep:MIME_TYPES_GENERATED_PATH=/mime_types_generated.rs
+# env-dep:OUT_DIR=/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/build/mime_guess2-a01cadeb2996edb7/out
