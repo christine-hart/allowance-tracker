@@ -1,0 +1,10 @@
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/libunicase-6a82f1956fe91809.rmeta: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/ascii.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/mod.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/libunicase-6a82f1956fe91809.rlib: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/ascii.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/mod.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/unicase-6a82f1956fe91809.d: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/ascii.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/mod.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/lib.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/ascii.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/mod.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicase-2.8.1/src/unicode/map.rs:

@@ -1,0 +1,10 @@
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/libusvg_tree-41f590f2fbd7e4fd.rmeta: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/filter.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/geom.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/text.rs
+
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/libusvg_tree-41f590f2fbd7e4fd.rlib: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/filter.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/geom.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/text.rs
+
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/usvg_tree-41f590f2fbd7e4fd.d: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/filter.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/geom.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/text.rs
+
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/lib.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/filter.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/geom.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/usvg-tree-0.37.0/src/text.rs:

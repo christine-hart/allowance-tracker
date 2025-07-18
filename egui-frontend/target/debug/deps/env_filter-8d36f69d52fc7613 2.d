@@ -1,0 +1,10 @@
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/libenv_filter-8d36f69d52fc7613.rmeta: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/directive.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filter.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filtered_log.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/op.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/parser.rs
+
+/Users/kerryh/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/windsurf_try/allowance-tracker/egui-frontend/target/debug/deps/env_filter-8d36f69d52fc7613.d: /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/lib.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/directive.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filter.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filtered_log.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/op.rs /Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/parser.rs
+
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/lib.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/directive.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filter.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/filtered_log.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/op.rs:
+/Users/kerryh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-0.1.3/src/parser.rs:
